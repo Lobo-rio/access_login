@@ -1,6 +1,10 @@
 # access_login
 Estudo do VueJS com backend NestJS, entendendo os fundamentos do Vue 2.
 
+<p align="center">
+  <img src="./frontend/src/assets/login.png" width="280" alt="Login Access">
+</p>
+
 ### Tecnologias do Projeto!
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![NodeJS](	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -24,6 +28,8 @@ Foi desenvolvido um CRUD completo, para o desenvolvimento do projeto foi usado o
 
 npm install ou yarn install
 
+npm run start:dev
+
 Caso o banco não seja criado, rode este comando.
 
 npx prisma migrate dev --name init
@@ -37,6 +43,8 @@ Foi desenvolvido um layout simples, usando o Vuetify, para simular o acesso e ca
 ### Comando após a clonar o repositório - FrontEnd!
 
 npm install ou yarn install
+
+npm run serve
 
 ### Portas e Links
 
