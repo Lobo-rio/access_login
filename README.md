@@ -46,12 +46,12 @@ Portas usadas:
 
 Links do banckend:
 
-GET -> http://localhost:8081/app/users/:email
-POST -> http://localhost:8081/app/users
+- GET -> http://localhost:8081/app/users/:email
+- POST -> http://localhost:8081/app/users
 
 Links do fronend:
 
-GET -> http://localhost:8080
+- GET -> http://localhost:8080
 
 
 ### GitHub Analytics
