@@ -34,7 +34,7 @@ Caso o banco não seja criado, rode este comando.
 
 npx prisma migrate dev --name init
 
-### Tecnologias do BackEnd!
+### Tecnologias do FrontEnd!
 
 NodeJS, VueJS e Vuetify
 
